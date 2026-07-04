@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Grid Cut</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            line-height: 1.7;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
+
+        p {
+            margin: 12px 0;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            color: #777;
+            font-size: 14px;
+        }
+
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .updated {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Privacy Policy</h1>
+
+    <p class="updated">
+        Last Updated: July 4, 2026
+    </p>
+
+    <p>
+        Thank you for using <strong>Grid Cut</strong>.
+        Your privacy is important to us. This Privacy Policy explains how the app handles your information.
+    </p>
+
+    <h2>Information We Collect</h2>
+
+    <p>
+        <strong>Grid Cut does not collect, store, or share any personal information.</strong>
+    </p>
+
+    <p>
+        The app does not require you to create an account or provide personal details such as:
+    </p>
+
+    <ul>
+        <li>Name</li>
+        <li>Email address</li>
+        <li>Phone number</li>
+        <li>Location</li>
+        <li>Contacts</li>
+        <li>Payment information</li>
+    </ul>
+
+    <h2>Photos and Images</h2>
+
+    <p>
+        Grid Cut allows you to select images from your device solely for the purpose of splitting them into grids.
+    </p>
+
+    <p>
+        <strong>All image processing takes place locally on your device.</strong>
+        Your images are never uploaded to our servers and are never stored, viewed, or shared by us.
+    </p>
+
+    <h2>Data Storage</h2>
+
+    <p>
+        The app does not maintain any online database or cloud storage.
+        Any generated images are saved only to your device if you choose to save them.
+    </p>
+
+    <h2>Permissions</h2>
+
+    <p>
+        Grid Cut may request permission to access your device's photos or storage only so you can:
+    </p>
+
+    <ul>
+        <li>Select an image to split.</li>
+        <li>Save the resulting grid images.</li>
+    </ul>
+
+    <p>
+        These permissions are used exclusively for the app's functionality and not for collecting personal information.
+    </p>
+
+    <h2>Third-Party Services</h2>
+
+    <p>
+        Grid Cut does not use third-party services to collect your personal information.
+    </p>
+
+    <h2>Children's Privacy</h2>
+
+    <p>
+        Grid Cut does not knowingly collect personal information from children under the age of 13.
+    </p>
+
+    <h2>Changes to This Privacy Policy</h2>
+
+    <p>
+        We may update this Privacy Policy from time to time.
+        Any changes will be posted on this page with an updated revision date.
+    </p>
+
+    <h2>Contact Us</h2>
+
+    <p>
+        If you have any questions regarding this Privacy Policy, please contact us at:
+    </p>
+
+    <p>
+        <strong>Email:</strong> official@skywebdev.xyz
+    </p>
+
+    <footer>
+        &copy; 2026 Grid Cut. All Rights Reserved.
+    </footer>
+
+</div>
+
+</body>
+</html>
